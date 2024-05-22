@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+    background: radial-gradient(#fff,#ffd6d6);
+}
+div{
+    color: #555;
+}
+
+form{
+    margin: 50px auto;
+    width: 50vw;
+    border: 2px solid #555;
+    height: auto;
+}
+.main_div{
+    width: 500px;
+}
+.div1{
+    margin-top: 20px;
+    padding: 10px;
+}
+.div2{
+    margin-top: 10px;
+    padding: 10px;
+}
+.div3{
+    margin-top: 10px;
+    padding: 10px;
+}
+.div4{
+    margin-top: 10px;
+    padding: 10px;
+}
+.div5{
+    margin-top: 10px;
+    padding: 10px;
+}
